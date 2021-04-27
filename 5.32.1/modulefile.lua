@@ -41,6 +41,10 @@ Tools included in this module are
 * tater.pl
 ]])
 
+depends_on('BLAST')
+depends_on('infernal')
+depends_on('trnascan-se')
+
 local package = "TIGER"
 local version = "5.32.1"
 local base    = pathJoin("/opt/packages",package,version)
