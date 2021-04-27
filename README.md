@@ -1,7 +1,7 @@
 # singularity-tiger
 [![Build Status](https://www.travis-ci.com/icaoberg/singularity-tiger.svg?branch=main)](https://www.travis-ci.com/icaoberg/singularity-tiger)
 
-Singularity recipe for TIGER.
+Singularity recipe for [TIGER](https://github.com/sandialabs/TIGER).
 
 ## Building the image using the recipe
 
@@ -18,6 +18,16 @@ Run the script `rbuild.sh` to build image locally.
 ```
 bash ./rbuild.sh
 ```
+
+## Installing the container on Bridges (or similar)
+Copy the
+
+* `SIF` file
+* and the Perl scripts
+
+to `/opt/packages/tiger/5.32.1`.
+
+Copy the file `modulefile.lua` to `/opt/modules/tiger` as `5.32.1.lua`.
 
 ---
 Copyright © 2021 Pittsburgh Supercomputing Center. All Rights Reserved.
