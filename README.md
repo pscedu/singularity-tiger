@@ -1,7 +1,7 @@
 # singularity-tiger
 Singularity recipe for [TIGER](https://github.com/sandialabs/TIGER).
 
-## Installing the container on Bridges (or similar)
+## Installing the container on Bridges 2
 Copy the
 
 * `SIF` file
