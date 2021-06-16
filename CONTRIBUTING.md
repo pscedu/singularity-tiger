@@ -4,7 +4,7 @@ When contributing to this repository, please first request permission for change
 
 #CheckList
 
-Please make sure all these files are listed within the repository
+Please make sure the listed files are listed within the repository
 
 1) README.MD
 2) LICENSE
