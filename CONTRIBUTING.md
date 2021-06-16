@@ -34,9 +34,7 @@ For each version, you will create a separate folder. For each version, create or
 
 6. You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
 
-
-# PSC Github Website
-https://github.com/orgs/pscedu
+[![Logo](https://developer.nvidia.com/sites/default/files/logos/psc_logo.png)](https://github.com/orgs/pscedu)
 
 
 
