@@ -2,6 +2,16 @@
 
 When contributing to this repository, please first request permission for changes you wish to make via issue, email, milestone or any other method.
 
+#CheckList
+
+Please make sure all these files are listed within the repository
+
+1) README.MD
+2) LICENSE
+3) Github Action
+4) Singularity
+5) build/rbuild
+6) modulefile.lua 
 
 #Pull requst process
 
