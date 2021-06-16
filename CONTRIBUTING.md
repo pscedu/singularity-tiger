@@ -1,20 +1,23 @@
 
 # Contributing to this repository
 
-When contributing to this repository, please first request permission for changes you wish to make via issue, email, milestone or any other method.
+If you are a [PSC](https://www.psc.edu/staff-directory/) staff or intern, when contributing to this repository, please first request permission for changes you wish to make via issue, email, milestone, Slack or any other method you see fit.
+
+If you are a collaborator or a community member, when contributing to this repository, please fork this repository and create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) when appropiate. 
 
 # CheckList
 
-Please make sure the listed files are listed within the repository
+Please make sure the listed files are listed within the repository and update them as needed
 
-1. README.MD
-2. LICENSE
-3. Github Action
-4. Singularity
-5. build.sh/rbuild.sh
-6. modulefile.lua 
+1. `README.md`
+2. `1LICENSE`
+3. Github Action folder `.github`
+4. `Singularity` definition file, one per version
+5. Build scripts `build.sh` and `build.sh`, one pair per version
+6. LMOD `modulefile.lua` file, one file per version
+7. Test script `test.sh`, one file per version
 
-# Pull requst process
+# Pull request process
 
 1. Ensure any install Git application and a text editor on your computing device. 
 
