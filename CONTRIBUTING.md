@@ -10,7 +10,7 @@ If you are a collaborator or a community member, when contributing to this repos
 Please make sure the listed files are listed within the repository and update them as needed
 
 1. `README.md`
-2. `1LICENSE`
+2. `LICENSE`
 3. Github Action folder `.github`
 4. `Singularity` definition file, one per version
 5. Build scripts `build.sh` and `build.sh`, one pair per version
