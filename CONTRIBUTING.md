@@ -12,10 +12,13 @@ Please make sure the listed files are listed within the repository and update th
 1. `README.md`
 2. `LICENSE`
 3. Github Action folder `.github`
-4. `Singularity` definition file, one per version
-5. Build scripts `build.sh` and `build.sh`, one pair per version
-6. LMOD `modulefile.lua` file, one file per version
-7. Test script `test.sh`, one file per version
+
+For each version, you will create a separate folder. For each version, create or update
+
+1. `Singularity` definition file, one per version
+2. Build scripts `build.sh` and `build.sh`, one pair per version
+3. LMOD `modulefile.lua` file, one file per version
+4. Test script `test.sh`, one file per version
 
 # Pull request process
 
