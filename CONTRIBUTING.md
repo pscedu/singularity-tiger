@@ -10,7 +10,7 @@ Please make sure all these files are listed within the repository
 2) LICENSE
 3) Github Action
 4) Singularity
-5) build/rbuild
+5) build.sh/rbuild.sh
 6) modulefile.lua 
 
 #Pull requst process
