@@ -5,6 +5,7 @@ If you are a [PSC](https://www.psc.edu/staff-directory/) staff or intern, when c
 
 If you are a collaborator or a community member, when contributing to this repository, please fork this repository and create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) when appropiate. 
 
+
 # CheckList
 
 Please make sure the listed files are listed within the repository and update them as needed
@@ -20,6 +21,13 @@ For each version, you will create a separate folder. For each version, create or
 3. LMOD `modulefile.lua` file, one file per version
 4. Test script `test.sh`, one file per version
 
+# Ready to make changes? Open your own branch
+Use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch, and can have multiple other branches. You can merge a branch into another branch using a pull request.
+Creating branch turtotial link: https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches 
+
+# Dont see your issue ? open one
+Please visit https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues/creating-an-issue and follow the instructon listed.
+
 # Pull request process
 
 1. Ensure any install Git application and a text editor on your computing device. 
@@ -34,8 +42,20 @@ For each version, you will create a separate folder. For each version, create or
 
 6. You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
 
-[![Logo](https://developer.nvidia.com/sites/default/files/logos/psc_logo.png)](https://github.com/orgs/pscedu)
 
+# Windows
+his site can be developed on Windows, however a few potential gotchas need to be kept in mind:
+
+1. Regular Expressions: Windows uses \r\n for line endings, while Unix based systems use \n. Therefore when working on Regular Expressions, use \r?\n instead of \n in order to support both environments. The Node.js os.EOL property can be used to get an OS-specific end-of-line marker.
+2. Paths: Windows systems use \ for the path separator, which would be returned by path.join and others. You could use path.posix, path.posix.join etc and the slash module, if you need forward slashes - like for constructing URLs - or ensure your code works with either.
+3. Bash: Not every Windows developer has a terminal that fully supports Bash, so it's generally preferred to write scripts in JavaScript instead of Bash.
+
+# support 
+
+Please email advsys@psc.edu for support requests. 
+
+
+[![Logo](https://developer.nvidia.com/sites/default/files/logos/psc_logo.png)](https://github.com/orgs/pscedu)
 
 
 
