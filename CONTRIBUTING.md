@@ -25,6 +25,11 @@ For each version, you will create a separate folder. For each version, create or
 Use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch, and can have multiple other branches. You can merge a branch into another branch using a pull request.
 Creating branch turtotial link: https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches 
 
+# Use a Consistent Coding Style
+2 spaces for indentation rather than tabs
+You can try running npm run lint for style unification
+
+
 # Report bugs using Github's issues
 We use GitHub issues to track public bugs. Report a bug by opening a new issue. 
 For instruction please visit https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues/creating-an-issue
