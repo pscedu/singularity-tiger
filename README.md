@@ -1,5 +1,6 @@
 # singularity-tiger
 ![Status](https://github.com/pscedu/singularity-tiger/actions/workflows/main.yml/badge.svg)
+![Status](https://github.com/pscedu/singularity-tiger/actions/workflows/pretty.yml/badge.svg)
   
 Singularity recipe for [TIGER](https://github.com/sandialabs/TIGER).
 
