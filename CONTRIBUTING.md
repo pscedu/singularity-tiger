@@ -16,7 +16,7 @@ Please make sure the listed files are listed within the repository and update th
 For each version, you will create a separate folder. For each version, create or update
 
 1. `Singularity` definition file, one per version
-2. Build scripts `build.sh` and `build.sh`, one pair per version
+2. Build scripts `build.sh` and `rbuild.sh`, one pair per version
 3. LMOD `modulefile.lua` file, one file per version
 4. Test script `test.sh`, one file per version
 
