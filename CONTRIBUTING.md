@@ -56,7 +56,7 @@ his site can be developed on Windows, however a few potential gotchas need to be
 
 
 
-# support 
+# Support 
 
 Please email help@psc.edu for support requests. 
 
