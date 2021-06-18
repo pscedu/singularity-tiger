@@ -1,10 +1,8 @@
+![Issue](https://img.shields.io/github/issues/pscedu/singularity-tiger)
+![forks](https://img.shields.io/github/forks/pscedu/singularity-tiger)
+![stars](https://img.shields.io/github/stars/pscedu/singularity-tiger)
+![license](https://img.shields.io/github/license/pscedu/singularity-tiger)
 
-![Release](https://img.shields.io/badge/release-v5.32.1-green.svg)
-[![Build Status](https://travis-ci.org/pscedu/singularity-tiger.svg?branch=master)](https://travis-ci.org/pscedu/singularity-tiger)
-[![GitHub issues](https://img.shields.io/github/issues/pscedu/singularity-tiger.svg)](https://github.com/pscedu/singularity-tiger/issues)
-[![GitHub forks](https://img.shields.io/github/forks/pscedu/singularity-tiger.svg)](https://github.com/pscedu/singularity-tiger/network)
-[![GitHub stars](https://img.shields.io/github/stars/pscedu/singularity-tiger.svg)](https://github.com/pscedu/singularity-tiger/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 # singularity-tiger
 ![Status](https://github.com/pscedu/singularity-tiger/actions/workflows/pretty.yml/badge.svg)
 Singularity recipe for [TIGER](https://github.com/sandialabs/TIGER).
