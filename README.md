@@ -1,4 +1,4 @@
-[![Hosted](https://img.shields.io/badge/hosted-sylabs.io-green.svg)](https://cloud.sylabs.io/library/pscedu/default/tiger)
+
 ![Release](https://img.shields.io/badge/release-v5.32.1-green.svg)
 [![Build Status](https://travis-ci.org/pscedu/singularity-tiger.svg?branch=master)](https://travis-ci.org/pscedu/singularity-tiger)
 [![GitHub issues](https://img.shields.io/github/issues/pscedu/singularity-tiger.svg)](https://github.com/pscedu/singularity-tiger/issues)
