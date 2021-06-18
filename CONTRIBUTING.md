@@ -58,7 +58,7 @@ his site can be developed on Windows, however a few potential gotchas need to be
 
 # support 
 
-Please email advsys@psc.edu for support requests. 
+Please email help@psc.edu for support requests. 
 
 
 [![Logo](https://developer.nvidia.com/sites/default/files/logos/psc_logo.png)](https://github.com/orgs/pscedu)
