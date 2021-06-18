@@ -1,7 +1,7 @@
 ![Issue](https://img.shields.io/github/issues/pscedu/singularity-tiger)
 ![forks](https://img.shields.io/github/forks/pscedu/singularity-tiger)
-![stars](https://img.shields.io/github/stars/pscedu/singularity-tiger)
-![license](https://img.shields.io/github/license/pscedu/singularity-tiger)
+![Stars](https://img.shields.io/github/stars/pscedu/singularity-tiger)
+![License](https://img.shields.io/github/license/pscedu/singularity-tiger)
 
 # singularity-tiger
 ![Status](https://github.com/pscedu/singularity-tiger/actions/workflows/pretty.yml/badge.svg)
