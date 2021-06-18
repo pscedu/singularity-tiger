@@ -37,7 +37,6 @@ For instruction please visit https://docs.github.com/en/issues/tracking-your-wor
 
 
 1. Ensure any install Git application and a text editor on your computing device. 
-
 2. Have the right access to the desired repository.
 
 3. Update the README.md using the text editor with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
@@ -67,4 +66,3 @@ Please email advsys@psc.edu for support requests.
 
    # Resources
       https://www.psc.edu/resources/
-
