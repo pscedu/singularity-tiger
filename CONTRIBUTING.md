@@ -33,7 +33,7 @@ You can try running npm run lint for style unification
 We use GitHub issues to track public bugs. Report a bug by opening a new issue. 
 For instruction please visit https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues/creating-an-issue
 
-# Pull request process     ![Pull request](https://img.shields.io/badge/Pull%20request-1-brightgreen.svg)
+# Pull request process 
 
 
 1. Ensure any install Git application and a text editor on your computing device. 
@@ -67,5 +67,4 @@ Please email advsys@psc.edu for support requests.
 
    # Resources
       https://www.psc.edu/resources/
-
 
