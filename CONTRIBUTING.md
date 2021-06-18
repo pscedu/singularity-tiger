@@ -1,13 +1,11 @@
 
-# Contributing to this repositoryv ![Repository](https://img.shields.io/badge/Repository-Built-brightgreen.svg)
-
+# Contributing to this repository 
 If you are a [PSC](https://www.psc.edu/staff-directory/) staff or intern, when contributing to this repository, please first request permission for changes you wish to make via issue, email, milestone, Slack or any other method you see fit.
 
 If you are a collaborator or a community member, when contributing to this repository, please fork this repository and create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) when appropiate. 
 
 
-# CheckList ![Checks](https://img.shields.io/badge/Checks-passing-brightgreen.svg)
-
+# CheckList 
 Please make sure the listed files are listed within the repository and update them as needed
 
 1. `README.md`
@@ -21,7 +19,7 @@ For each version, you will create a separate folder. For each version, create or
 3. LMOD `modulefile.lua` file, one file per version
 4. Test script `test.sh`, one file per version
 
-# Ready to make changes? Open your own branch ![Branch](https://img.shields.io/badge/Branch-succeeded-brightgreen.svg)
+# Ready to make changes? Open your own branch 
 Use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch, and can have multiple other branches. You can merge a branch into another branch using a pull request.
 Creating branch turtotial link: https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches 
 
