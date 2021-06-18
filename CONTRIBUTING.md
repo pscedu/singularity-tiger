@@ -4,7 +4,6 @@ If you are a [PSC](https://www.psc.edu/staff-directory/) staff or intern, when c
 
 If you are a collaborator or a community member, when contributing to this repository, please fork this repository and create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) when appropiate. 
 
-
 # CheckList 
 Please make sure the listed files are listed within the repository and update them as needed
 
@@ -66,7 +65,6 @@ Please email advsys@psc.edu for support requests.
 
    # Resources
       https://www.psc.edu/resources/
-
 
 
 
