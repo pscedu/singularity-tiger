@@ -1,10 +1,10 @@
+![Status](https://github.com/pscedu/singularity-tiger/actions/workflows/main.yml/badge.svg)
 ![Issue](https://img.shields.io/github/issues/pscedu/singularity-tiger)
 ![forks](https://img.shields.io/github/forks/pscedu/singularity-tiger)
 ![Stars](https://img.shields.io/github/stars/pscedu/singularity-tiger)
 ![License](https://img.shields.io/github/license/pscedu/singularity-tiger)
 
-# singularity-tiger ![Status](https://github.com/pscedu/singularity-tiger/actions/workflows/main.yml/badge.svg)
-
+# singularity-tiger
 Singularity recipe for [TIGER](https://github.com/sandialabs/TIGER).
 
 ## Installing the container on Bridges 2
