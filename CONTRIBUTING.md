@@ -20,7 +20,7 @@ For each version, you will create a separate folder. For each version, create or
 
 # Ready to make changes? Open your own branch 
 Use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch, and can have multiple other branches. You can merge a branch into another branch using a pull request.
-Creating branch turtotial link: https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches 
+To learn how to create a branch click [here](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches ).
 
 # Use a Consistent Coding Style  ![Style](https://img.shields.io/badge/Style-consistent-brightgreen.svg)
 2 spaces for indentation rather than tabs
@@ -65,7 +65,6 @@ Please email advsys@psc.edu for support requests.
 
    # Resources
       https://www.psc.edu/resources/
-
 
 
 
