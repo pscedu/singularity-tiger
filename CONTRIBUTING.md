@@ -1,4 +1,3 @@
-
 # Contributing to this repository 
 If you are a [PSC](https://www.psc.edu/staff-directory/) staff or intern, when contributing to this repository, please first request permission for changes you wish to make via issue, email, milestone, Slack or any other method you see fit.
 
