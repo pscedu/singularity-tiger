@@ -28,8 +28,9 @@ For this project we will follow the [Google Style Guides](https://google.github.
 * You can try running npm run lint for style unification
 
 # Report bugs using Github's issues
-We use GitHub issues to track public bugs. Report a bug by opening a new issue. 
-For instruction please visit https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues/creating-an-issue
+We use GitHub issues to track public bugs. Report a bug by opening a new issue.
+
+For instructions, please click [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues/creating-an-issue).
 
 # Pull request process 
 1. Ensure any install Git application and a text editor on your computing device. 
