@@ -1,3 +1,9 @@
+![Status](https://github.com/pscedu/singularity-tiger/actions/workflows/main.yml/badge.svg)
+![Issue](https://img.shields.io/github/issues/pscedu/singularity-tiger)
+![forks](https://img.shields.io/github/forks/pscedu/singularity-tiger)
+![Stars](https://img.shields.io/github/stars/pscedu/singularity-tiger)
+![License](https://img.shields.io/github/license/pscedu/singularity-tiger)
+
 # singularity-tiger
 ![Status](https://github.com/pscedu/singularity-tiger/actions/workflows/main.yml/badge.svg)
   
@@ -29,7 +35,7 @@ bash ./rbuild.sh
 ```
 
 ---
-Copyright © 2021 Pittsburgh Supercomputing Center. All Rights Reserved.
+Copyright © 2020-2021 Pittsburgh Supercomputing Center. All Rights Reserved.
 
 The [Biomedical Applications Group](https://www.psc.edu/biomedical-applications/) at the [Pittsburgh Supercomputing
 Center](http://www.psc.edu) in the [Mellon College of Science](https://www.cmu.edu/mcs/) at [Carnegie Mellon University](http://www.cmu.edu).
