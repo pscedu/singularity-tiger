@@ -1,5 +1,4 @@
 ![Status](https://github.com/pscedu/singularity-tiger/actions/workflows/main.yml/badge.svg)
-![Status](https://github.com/pscedu/singularity-tiger/actions/workflows/pretty.yml/badge.svg)
 ![Issue](https://img.shields.io/github/issues/pscedu/singularity-tiger)
 ![forks](https://img.shields.io/github/forks/pscedu/singularity-tiger)
 ![Stars](https://img.shields.io/github/stars/pscedu/singularity-tiger)
