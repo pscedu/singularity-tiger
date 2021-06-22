@@ -1,4 +1,4 @@
-name: Make sure repo is pretty and ready for deployment
+name: Ready for deployment
 on: [push, pull_request]
 jobs:
 
