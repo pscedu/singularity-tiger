@@ -1,7 +1,6 @@
 name: Singularity build
 on: [push, pull_request]
 jobs:
-
   build:
     name: Build
     runs-on: ubuntu-18.04
