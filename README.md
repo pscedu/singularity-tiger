@@ -1,21 +1,21 @@
-![Status](https://github.com/pscedu/singularity-tiger/actions/workflows/main.yml/badge.svg)
-![Issue](https://img.shields.io/github/issues/pscedu/singularity-tiger)
-![forks](https://img.shields.io/github/forks/pscedu/singularity-tiger)
-![Stars](https://img.shields.io/github/stars/pscedu/singularity-tiger)
-![License](https://img.shields.io/github/license/pscedu/singularity-tiger)
+![Status](https://github.com/pscedu/singularity-mc/actions/workflows/main.yml/badge.svg)
+![Issue](https://img.shields.io/github/issues/pscedu/singularity-mc)
+![forks](https://img.shields.io/github/forks/pscedu/singularity-mc)
+![Stars](https://img.shields.io/github/stars/pscedu/singularity-mc)
+![License](https://img.shields.io/github/license/pscedu/singularity-mc)
 
-# singularity-tiger
-Singularity recipe for [TIGER](https://github.com/sandialabs/TIGER).
+# singularity-mc
+Singularity recipe for [mc](https://github.com/sandialabs/mc).
 
 ## Installing the container on Bridges 2
 Copy the
 
 * `SIF` file
-* and the Perl scripts
+* and the scripts
 
-to `/opt/packages/tiger/5.32.1`.
+to `/opt/packages/mc/4.8.25`.
 
-Copy the file `modulefile.lua` to `/opt/modulefiles/tiger` as `5.32.1.lua`.
+Copy the file `modulefile.lua` to `/opt/modulefiles/mc` as `4.8.25.lua`.
 
 ## Building the image using the recipe
 ### To build the image locally
@@ -44,4 +44,3 @@ Copyright © 2020-2021 Pittsburgh Supercomputing Center. All Rights Reserved.
 
 The [Biomedical Applications Group](https://www.psc.edu/biomedical-applications/) at the [Pittsburgh Supercomputing
 Center](http://www.psc.edu) in the [Mellon College of Science](https://www.cmu.edu/mcs/) at [Carnegie Mellon University](http://www.cmu.edu).
-
