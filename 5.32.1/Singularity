@@ -6,7 +6,7 @@ From: perl:5.32.1
     EMAIL icaoberg@psc.edu
     SUPPORT help@psc.edu
     REPOSITORY http://gitub.com/pscedu/singularity-tiger
-    COPYRIGHT Copyright © 2021 Pittsburgh Supercomputing Center. All Rights Reserved.    
+    COPYRIGHT Copyright © 2021-2025 Pittsburgh Supercomputing Center. All Rights Reserved.    
     VERSION 5.32.1
 
 %environment
@@ -24,10 +24,11 @@ From: perl:5.32.1
     cpan install IPC::Run3
     cd /opt
     git clone https://github.com/sandialabs/TIGER.git
-    cd TIGER && git submodule init && git submodule update
+    cd TIGER/bin && git submodule init && git submodule update
     ln -s $(pwd)/islander.pl /usr/local/bin/islander.pl && chmod +x /usr/local/bin/islander.pl
     ln -s $(pwd)/tiger.pl /usr/local/bin/tiger.pl && chmod +x /usr/local/bin/tiger.pl
     ln -s $(pwd)/tater.pl /usr/local/bin/tater.pl && chmod +x /usr/local/bin/tater.pl
-    ln -s $(pwd)/resolve.pl /usr/local/bin/resolve.pl && chmod +x /usr/local/bin/resolve.pl
+    ln -s $(pwd)/resolve4.pl /usr/local/bin/resolve4.pl && chmod +x /usr/local/bin/resolve4.pl
     ln -s $(pwd)/dnaStats.pl /usr/local/bin/dnaStats.pl && chmod +x /usr/local/bin/dnaStats.pl
+    ln -s $(pwd)/dnaStats2.pl /usr/local/bin/dnaStats2.pl && chmod +x /usr/local/bin/dnaStats2.pl
 

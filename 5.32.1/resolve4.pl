@@ -2,7 +2,7 @@
 
 VERSION=5.32.1
 PACKAGE=tiger
-TOOL=resolve.pl
+TOOL=resolve4.pl
 DIRECTORY=$(dirname "$0")
 
 PERSISTENT_FILE_STORAGE=/ocean
